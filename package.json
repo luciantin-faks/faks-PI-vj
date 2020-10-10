@@ -1,0 +1,22 @@
+{
+  "name": "faks-pi-vj",
+  "version": "1.0.0",
+  "description": "programsko vj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciantin/faks-PI-vj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciantin/faks-PI-vj/issues"
+  },
+  "homepage": "https://github.com/luciantin/faks-PI-vj#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
