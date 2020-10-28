@@ -97,8 +97,6 @@ function naprednaPretraga(lista,pojam){
     pojam = pojam.toLowerCase().split(' ');
     for(let i = 0;i<lista.length;i++){
         let tmp = prep(lista[i]);
-        // console.log(tmp,i)
-        // console.log(pojam)
         if(stringIncludesAllOfArr(tmp,pojam)) return i;
     };
     return -1;
